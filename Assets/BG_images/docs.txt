@@ -1,0 +1,3 @@
+background images, etc.
+
+documentation provided in main folder
