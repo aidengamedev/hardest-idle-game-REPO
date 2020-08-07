@@ -1,0 +1,6 @@
+A simple txt to define the folder Assets as a folder with specific assets made for the game "Hardest Idle Game". These assets are not free for distribution and purchase options are available.
+
+You may purchase the download through Patreon which is helpfully provided in a file named "patreon.txt" in the master directory of these files. I will be adding more each day so check back for bug
+fixes etc.
+
+THIS FILE MAY ALSO BE UPDATED SO EVERY UPDATE YOU SEE IN THIS REPOITORY MAKE SURE TO CHECK BACK TO THIS FILE.
